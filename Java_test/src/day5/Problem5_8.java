@@ -14,6 +14,7 @@ public class Problem5_8 {
 		int over = 0;
 		int under = 0;
 		int zero = 0;
+		
 		for (int i = 0; i < a.length; i++) {
 			if ( 0 < a[i]) {
 				over++;
