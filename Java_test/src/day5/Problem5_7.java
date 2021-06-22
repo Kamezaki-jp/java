@@ -17,6 +17,7 @@ public class Problem5_7 {
 			total += array[i];
 		}
 		System.out.println("\n" + "合計値：" + total);
+		
 		avg = total / array.length;
 		System.out.println("平均値：" + avg);
 		
