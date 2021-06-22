@@ -28,6 +28,7 @@ public class Problem5_7 {
 			}
 		}
 		
+		
 		System.out.println("\n" + "平均値より小さい値：");
 		for (int i = 0; i < array.length; i++) {
 			if (avg > array[i]) {
